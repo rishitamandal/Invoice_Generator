@@ -1,4 +1,3 @@
-![Screenshot (640)](https://github.com/rishitamandal/Invoice_Generator/assets/92074430/d5385536-4adc-4fb3-ae2a-1be640fc1d69)# Invoice_Generator
 # Invoice Generator - React App
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
